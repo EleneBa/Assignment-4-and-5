@@ -1,0 +1,8 @@
+data/
+outputs/
+__pycache__/
+.venv/
+*.pt
+*.pth
+*.png
+*.jpg
