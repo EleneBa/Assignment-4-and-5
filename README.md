@@ -38,33 +38,10 @@ Includes a Label field identifying traffic as BENIGN or DDoS
 
 
 3.1 Project Structure
-netflow2img_cnn/
-├── data/
-│   └── Friday-WorkingHours-Afternoon-DDoS.pcap_ISCX.csv
-├── outputs/
-│   ├── images/
-│   │   ├── train/
-│   │   │   ├── benign/
-│   │   │   └── ddos/
-│   │   ├── val/
-│   │   │   ├── benign/
-│   │   │   └── ddos/
-│   │   └── test/
-│   │       ├── benign/
-│   │       └── ddos/
-│   ├── cnn_ddos.pt
-│   └── metrics.txt
-├── src/
-│   ├── inspect_labels.py
-│   ├── preprocess.py
-│   ├── make_images.py
-│   ├── train_cnn.py
-│   ├── predict.py
-│   ├── run_pipeline.py
-│   └── utils.py
-├── requirements.txt
-├── README.md
-└── report.md
+<img width="372" height="667" alt="image" src="https://github.com/user-attachments/assets/371d0256-678b-4733-a696-166a4cc374ec" />
+
+ 
+
 
 
 4. Data Processing Pipeline
