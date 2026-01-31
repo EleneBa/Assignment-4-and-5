@@ -138,6 +138,7 @@ Learning rate: 1e-3
 Device: CPU (with optional CUDA support)
 
 Batch sizes optimized for Windows I/O constraints
+<img width="1868" height="1021" alt="image" src="https://github.com/user-attachments/assets/a8d1cef5-a8ac-4a10-a579-42ad6db98e76" />
 
 
 7. Evaluation and Outputs
